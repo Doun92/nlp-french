@@ -1,0 +1,164 @@
+{
+    "author": "Daniel Escoval",
+    "title": "Je suis",
+    "book": "Dialogues",
+    "content": {
+        "strophe_1": {
+            "vers_1": "Je suis Akira un enfant perdu",
+            "vers_2": "Au milieu d’un néo-Tokyo déchu",
+            "vers_3": "Enfermé depuis une éternité",
+            "vers_4": "Mon pouvoir est ce qui m’a condamné"
+        },
+        "strophe_2": {
+            "vers_5": "Je suis Baba le petit lapin blanc",
+            "vers_6": "Une erreur, et je me change en vent",
+            "vers_7": "Dans mon monde, je fixe les règles",
+            "vers_8": "D’entre tous, je suis le plus espiègle"
+        },
+        "strophe_3": {
+            "vers_9": "Je suis César un pauvre chimpanzé",
+            "vers_10": "Je dois ma vie à ce qui m’a créé",
+            "vers_11": "Porté par une justice aveugle",
+            "vers_12": "Je changerai le monde en jungle"
+        },
+        "strophe_4": {
+            "vers_13": "Je suis Diablo, Seigneur de la Terreur",
+            "vers_14": "Dans tous les duels, je suis le vainqueur",
+            "vers_15": "L’évocation de mon nom fait trembler",
+            "vers_16": "Les mondes et ses glorieuses cités"
+        },
+        "strophe_5": {
+            "vers_17": "Je suis l’alchimiste Edward Elric",
+            "vers_18": "Je n’ai nullement besoin d’alambic",
+            "vers_19": "Car mon frère et moi avons payé",
+            "vers_20": "Le prix de notre courage passé"
+        },
+        "strophe_6": {
+            "vers_21": "Je suis le Hobbit appelé Frodon",
+            "vers_22": "Ma si petite taille est un don",
+            "vers_23": "Comme mon oncle, j’ai pu m’infiltrer",
+            "vers_24": "Dans les profondeurs de mondes damnés"
+        },
+        "strophe_7": {
+            "vers_25": "Je suis Guts, un être maudit, sombre",
+            "vers_26": "Mon armure fait de moi une ombre",
+            "vers_27": "Mon destin est lié à mon grand amour",
+            "vers_28": "Pour elle, mon voyage sera sans retour"
+        },
+        "strophe_8": {
+            "vers_29": "Je suis Hellboy, fils d’un odieux démon",
+            "vers_30": "Face au monde qui perd la raison",
+            "vers_31": "J’y répond avec mon poing de roche",
+            "vers_32": "Dans le but de protéger mes proches"
+        },
+        "strophe_9": {
+            "vers_33": "Je suis Isaac, un sacrifice",
+            "vers_34": "Dans une église, pendant l’office",
+            "vers_35": "C’est-à-dire sur le canapé devant",
+            "vers_36": "La sinistre télé, le dieu des gens"
+        },
+        "strophe_10": {
+            "vers_37": "Je suis Monsieur Jourdain, un bon naïf",
+            "vers_38": "Pris dans un monde réel ou fictif",
+            "vers_39": "Mon ascension n’est qu’une longue chute",
+            "vers_40": "Et ce, jusqu’à l’ultime minute"
+        },
+        "strophe_11": {
+            "vers_41": "Je suis Kobayashi-san, salariée",
+            "vers_42": "Je survivais seule et déprimée",
+            "vers_43": "Ivre, je rencontrai Tōru, un soir",
+            "vers_44": "À ses côtés, je retrouve l’espoir"
+        },
+        "strophe_12": {
+            "vers_45": "Je suis Link, un courageux chevalier",
+            "vers_46": "À la princesse Zelda, je suis lié",
+            "vers_47": "Sa légende se joint à mon destin",
+            "vers_48": "Pour combattre les forces du Malin"
+        },
+        "strophe_13": {
+            "vers_49": "Je suis Mario, le plombier à la moustache",
+            "vers_50": "Je parcours monde, telle est ma tâche",
+            "vers_51": "Un peu partout depuis plusieurs décennies",
+            "vers_52": "Le héros par excellence prédéfini"
+        },
+        "strophe_14": {
+            "vers_53": "Je suis Naruto, ninja orphelin",
+            "vers_54": "Je me bats pour mon rêve et les miens",
+            "vers_55": "L’horrible démon renard à neuf queues",
+            "vers_56": "Ne m’a jamais brûlé de son vil feu"
+        },
+        "strophe_15": {
+            "vers_57": "Je suis le très grand prof Onizuka",
+            "vers_58": "Pervers, gros nul et sans certificats",
+            "vers_59": "La vie de mes élèves m’importe",
+            "vers_60": "J’en fais une classe soudée et forte"
+        },
+        "strophe_16": {
+            "vers_61": "Je suis l’oncle Picsou, j’aime l’argent",
+            "vers_62": "Tant son odeur que sa couleur d’argent",
+            "vers_63": "Je connais chaque petite piécette",
+            "vers_64": "Par son nom et sa forme fluette"
+        },
+        "strophe_17": {
+            "vers_65": "Je suis le chevalier Don Quichotte",
+            "vers_66": "Géants, félons, traîtres et coyotes",
+            "vers_67": "Sont les adversaires que je combats",
+            "vers_68": "Ma fidèle épée les pourfendra"
+        },
+        "strophe_18": {
+            "vers_69": "Je suis Riko, une petite fille",
+            "vers_70": "Très intelligente et gentille",
+            "vers_71": "Aux côtés de mes amis, je descends",
+            "vers_72": "Dans l’Abysse noir, plus profondément"
+        },
+        "strophe_19": {
+            "vers_73": "Je suis Saitama, le chauve capé",
+            "vers_74": "Mon loisir est devenu mon métier",
+            "vers_75": "D’un simple coup de poing j’éradique",
+            "vers_76": "Les monstres, même les plus sadiques"
+        },
+        "strophe_20": {
+            "vers_77": "Je suis Thrall, un esclave gladiateur",
+            "vers_78": "J’ai toujours rêvé d’un monde meilleur",
+            "vers_79": "Où nous vivrons selon nos traditions",
+            "vers_80": "Je suis lassé de ces confrontations"
+        },
+        "strophe_21": {
+            "vers_81": "Je suis Ulysse, un (astro)naute",
+            "vers_82": "Un poids me pèse, tout est ma faute",
+            "vers_83": "Notre errance dure trop longtemps",
+            "vers_84": "J’ai hâte de retrouver mon enfant"
+        },
+        "strophe_22": {
+            "vers_85": "Je suis Vegeta, un ancien prince",
+            "vers_86": "Seule, pour moi, comptait la puissance",
+            "vers_87": "Lors de mon combat contre Songoku,",
+            "vers_88": "Je compris que les amis valaient tout"
+        },
+        "strophe_23": {
+            "vers_89": "Je suis Winston, un gorille savant",
+            "vers_90": "Je dispose d’un intellect puissant",
+            "vers_91": "Que je mets au service du monde",
+            "vers_92": "Que je protège chaque seconde"
+        },
+        "strophe_24": {
+            "vers_93": "Je suis le sinistre Xénomorphe",
+            "vers_94": "Je dévore tout anthropomorphe",
+            "vers_95": "Je suis un dangereux parasite",
+            "vers_96": "Prêt à dépasser toute limite"
+        },
+        "strophe_25": {
+            "vers_97": "Je suis Yoda, l’être le plus sage",
+            "vers_98": "J’ai outrepassé amour et rage",
+            "vers_99": "Pour devenir une lumière d’espoir",
+            "vers_100": "Pour tous les esprits perdus dans le noir"
+        },
+        "strophe_26": {
+            "vers_101": "Je suis Zerathul, un templier noir",
+            "vers_102": "On m’appelle aussi l’ombre du soir",
+            "vers_103": "J’ai eu des visions de notre futur",
+            "vers_104": "Tout n’est qu’écriture et réécriture"
+        }
+    },
+    "position": 1
+}
